@@ -1,0 +1,40 @@
+h1
+{
+    color: #8400ff;
+    border: 7px;
+    border-color: #5400ff;
+    border-radius: 10px;
+    border-style: groove;
+}
+
+#container
+{
+    position: relative; top: 0px; left: 500px;
+    background-color: #888888;
+    border-style: solid;
+    width: 300px;
+    height: 134px;    
+}
+
+#number
+{
+    text-align: center;
+    font-size: 25px
+    
+}
+
+#increment
+{
+    color:#ff0000;        
+    width: 100px;
+    height: 100px;
+    position: relative; top: 0px; left: 5px;
+}
+
+#decreament
+{
+    color:#0000ff;
+    width: 100px;
+    height: 100px;
+    position: relative;top:0; left: 90px;
+}
